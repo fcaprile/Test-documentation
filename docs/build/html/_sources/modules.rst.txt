@@ -4,4 +4,5 @@ Test-documentation
 .. toctree::
    :maxdepth: 4
 
-   a
+.. automodule:: a
+.. automodule:: carpeta.b

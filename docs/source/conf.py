@@ -29,6 +29,12 @@ author = 'FC'
 # ones.
 extensions = ['sphinx.ext.autodoc'
 ]
+autodoc_typehints = 'signature'
+autodoc_default_options = {
+    'members':           True,
+    'undoc-members':     True,
+    'member-order':      'bysource',
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']

@@ -11,10 +11,6 @@ Welcome to Test's documentation!
    :caption: Contents:
 
    modules
-   extra
-
-.. automodule:: a
-   :members:
 
 
 Indices and tables
