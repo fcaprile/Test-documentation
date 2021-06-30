@@ -12,6 +12,8 @@ Welcome to Test's documentation!
 
    modules
 
+.. automodule:: a
+
 Indices and tables
 ==================
 
